@@ -1,6 +1,8 @@
 ### Jieun Huh 👋
+---------------------------
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={entks301})](https://solved.ac/{entks301})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=entks301)](https://solved.ac/entks301)
+
 <!--
 **JIeunhuh/JIeunhuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
