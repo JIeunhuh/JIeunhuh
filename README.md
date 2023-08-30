@@ -11,9 +11,7 @@
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=javascript&logoColor=white"/>
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
- <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
  <img src="https://img.shields.io/badge/Eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
- <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
  <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"> 
  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
