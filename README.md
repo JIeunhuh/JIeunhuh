@@ -19,5 +19,5 @@
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIeunhuh&layout=donut-vertical)](https://github.com/jwjb1020/github-readme-stats)
 ![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIeunhuh&show_icons=true&theme=transparent)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=entks301)](https://solved.ac/entks301/)  
+
 
